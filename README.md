@@ -10,6 +10,10 @@ I am a passionate Front-end developer with a desire to learn and grow in a colla
 [![Static Badge](https://img.shields.io/badge/Telegram-07B2FC?style=plastic&logo=Telegram&logoColor=white&labelColor=07B2FC&link=https%3A%2F%2Ft.me%2FKOA7602)](https://t.me/KOA7602)
 [![Static Badge](https://img.shields.io/badge/Instagram-FC07BE?style=plastic&logo=Instagram&logoColor=white&labelColor=FC07BE&link=https%3A%2F%2Fwww.instagram.com%2F)](https://www.instagram.com/)
 
+### Bizness
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
+- :email: oasalivon@gmail.com
+
 ### Top Technologies
 
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB)
@@ -20,9 +24,14 @@ I am a passionate Front-end developer with a desire to learn and grow in a colla
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black&color=%2306B6D4)
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=black&color=%23F24E1E)
 
+### My stats ⭐
 
-![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+<div display="flex" justifyt="space-between">
+<img align="center" alt="Oksana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KsanaSal&show_icons=true&bg_color=FCF5FC&title_color=8816A4&text_color=262227&icon_color=0A6C96&border_color=521461"/>
+<img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsanaSal&layout=donut&bg_color=FCF5FC&title_color=8816A4&text_color=262227&icon_color=0A6C96&border_color=521461"/>
+</div>
 
-[![Oksana's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+### Profile views counter 👁️‍🗨️
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Oksana Salivon profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://github.com/KsanaSal)
+
