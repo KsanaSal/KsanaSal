@@ -11,7 +11,7 @@ I am a passionate Front-end developer with a desire to learn and grow in a colla
 [![Static Badge](https://img.shields.io/badge/Instagram-FC07BE?style=plastic&logo=Instagram&logoColor=white&labelColor=FC07BE&link=https%3A%2F%2Fwww.instagram.com%2F)](https://www.instagram.com/)
 
 ### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/11HSTHX201U9_-z7HbGDwExidoLmpRdf-/view?usp=sharing)
 - :email: oasalivon@gmail.com
 
 ### Top Technologies
@@ -21,7 +21,7 @@ I am a passionate Front-end developer with a desire to learn and grow in a colla
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=sass&logoColor=E34F26&labelColor=black&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=black&color=CC6699)
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black&color=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black&color=%2306B6D4)
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=black&color=%23F24E1E)
 
 ### My stats ⭐
