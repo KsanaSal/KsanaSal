@@ -11,7 +11,7 @@ I am a passionate Front-end developer with a desire to learn and grow in a colla
 [![Static Badge](https://img.shields.io/badge/Instagram-FC07BE?style=plastic&logo=Instagram&logoColor=white&labelColor=FC07BE&link=https%3A%2F%2Fwww.instagram.com%2F)](https://www.instagram.com/)
 
 ### Business
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/11HSTHX201U9_-z7HbGDwExidoLmpRdf-/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1-9YJWCpLTrcA9YKubbF1_j4k9yUf0KBx/view?usp=sharing)
 - :email: oasalivon@gmail.com
 
 ### Top Technologies
